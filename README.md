@@ -1,5 +1,23 @@
-## Hi there 👋
+## Hello, I'm Celine👋
+I'm a Cloud Engineer and I work with AWS and Terraform (IaC).
 
+### Skills:
+#### 💻 Backend:
+- AWS | Terraform | Java | C# | C | Python | PHP
+
+#### 🌎 Frontend: 
+- Django | HTML | Bootstrap
+  
+#### 📈 Databases: 
+- MySQL | PostgreSQL
+
+#### 🌱 Development IDEs:
+- Visual Studio Code | IntelliJ
+  
+#### 🏆 Certifications
+- AWS Certified Cloud Practitioner
+- HashiCorp Certified Terraform Associate
+  
 <!--
 **celineramirez/celineramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,13 +29,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
--->
-<!--
-- Skills:
-###### Backend:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+- 🌱 I’m currently learning GoLang
 -->
