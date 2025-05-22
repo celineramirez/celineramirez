@@ -17,6 +17,7 @@ I'm a Cloud Engineer and I work with AWS and Terraform (IaC). I'm currently prac
 #### 🏆 Certifications
 - AWS Certified Cloud Practitioner
 - HashiCorp Certified Terraform Associate
+- Microsoft Certified: Azure Fundamentals
   
 <!--
 **celineramirez/celineramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
