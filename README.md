@@ -3,7 +3,7 @@ I'm a Cloud Engineer and I work with AWS and Terraform (IaC). I'm currently prac
 
 ### Skills:
 #### 💻 Backend:
-- AWS | Terraform | Java | C# | C | Python | PHP
+- AWS | Terraform | Java | C# | C | Python | PHP | Go
 
 #### 🌎 Frontend: 
 - Django | HTML | Bootstrap
