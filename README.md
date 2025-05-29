@@ -1,5 +1,5 @@
 ## Hello, I'm Celine👋
-I'm a Cloud Engineer and I work with AWS and Terraform (IaC). I'm currently practicing Go and using it to build a currency converter.
+I'm a DevOps Engineer and I work with AWS and Terraform (IaC). I'm currently practicing Go and using it to build a currency converter.
 
 ### Skills:
 #### 💻 Backend:
