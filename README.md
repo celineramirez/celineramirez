@@ -6,7 +6,7 @@ I'm a Software Engineer and I work with AWS and Terraform (IaC). I've recently b
 - AWS | Terraform | Java | C# | C | Python | PHP | Go
 
 #### 🌎 Frontend: 
-- Django | HTML | Bootstrap
+- Django | HTML | Bootstrap | ReactJS
   
 #### 📈 Databases: 
 - MySQL | PostgreSQL
